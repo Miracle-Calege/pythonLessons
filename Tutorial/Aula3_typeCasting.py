@@ -1,5 +1,4 @@
 #typeCasting-> e o processo de converter o valor de um tipo de dado para o outro
-from Aula2_variaveis import estudante
 
 #typeCast explicita-> quando a conversao e feita pelo programador
 nome="Miracle Calege"
